@@ -16,9 +16,6 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "set BROWSER=NONE&&react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
     "start": "set BROWSER=NONE&&react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
